@@ -1,3 +1,3 @@
 const login = async (req,res)=>{
-    res.send("login");
+    res.send("login v2");
 }
